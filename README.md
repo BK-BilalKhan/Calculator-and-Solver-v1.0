@@ -1,12 +1,12 @@
 # Calculator and Solver v1.0
 Calculator and Solver (CaS) - Version 1.0
 
-## Interface of CaS v1.1
+## Interface of CaS v1.0
 <p align="center">
  <img src="https://cloud.githubusercontent.com/assets/26347107/24803586/220987a6-1bc5-11e7-8dbe-92bc3f724167.PNG" alt="Calculator and Solver" />
 </p>
 
-## Description of CaS v1.1
+## Description of CaS v1.0
 Everything is available on this project. I will explain it soon in details. Sorry about that.
 
 ## Licence
